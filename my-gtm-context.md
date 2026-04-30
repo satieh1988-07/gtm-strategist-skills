@@ -176,6 +176,15 @@ One app to sell, get paid, and manage customers — so you spend your time selli
 
 **Why better for ICP:** DSOs get a complete audit trail of real retail transactions (compliance), full rep visibility (coaching), and one vendor instead of two or three. Reps get one app that replaces everything.
 
+**Top sales objections:**
+1. **Cost** — price sensitivity is real; counter with TCO argument (Shopify transaction fees + integration costs + multiple vendor fees vs. one platform) and the Paparazzi $31M/$60%+ growth proof point
+2. **Outdated shopping cart UI vs. Shopify** — prospects see Shopify as the modern standard; acknowledge the gap, pivot to the total cost of Shopify (transaction fees, integration overhead, split rep experience) and the Party 2.0 / shopping cart upgrade roadmap
+
+**What closes deals:**
+1. Prospects coming from a worse platform — the bar is low enough that Freedom + Wayroo wins on reliability and completeness
+2. Prospects leaving Shopify due to high transaction fees and integration costs — they've already decided Shopify is too expensive; Wayroo's native commerce (no Shopify dependency, no extra fees) is the direct answer
+- **Implication:** The "vs. Shopify" narrative is a real buying trigger, not just a competitor battlecard. Wayroo's all-native stack (POS, storefront, payouts, inventory — no Shopify required) directly addresses why deals close.
+
 ---
 
 ## 7. Traction & Evidence
@@ -330,4 +339,10 @@ This is the single highest-leverage marketing asset. It is not yet published any
 
 **Sales deck strengths to preserve:** Client logo wall (Paparazzi, Youngevity, Zilis, etc.), credibility badge row (DSA/DSN/Capterra), platform stats ($7B payouts, 36K bonus runs, 25 years).
 
-**Not yet done:** Paparazzi case study, Wayroo-specific sales deck, messaging framework, positioning statement (battle-tested), GTM playbook, sales battlecards, website copy audit, Wayroo one-pager for reps.
+**Wayroo website (separate from bydesign.com):**
+- Homepage: https://wayroo.com/
+- Advanced (full feature set): https://wayroo.com/wayroo-advanced/
+- Essentials (base features): https://wayroo.com/wayroo-essentials/
+- Copy audit needed — current messaging needs to shift to outcome-first, confident voice
+
+**Not yet done:** Paparazzi case study, Wayroo-specific sales deck, messaging framework, positioning statement (battle-tested), GTM playbook, sales battlecards, Wayroo website copy rewrite, Wayroo one-pager for reps.
