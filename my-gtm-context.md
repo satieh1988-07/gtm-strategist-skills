@@ -180,12 +180,31 @@ One app to sell, get paid, and manage customers — so you spend your time selli
 
 ## 7. Traction & Evidence
 
-- ~$8–10M ARR, ~100 employees
-- 4,000 MAUs on one live client (proof-of-concept, real usage data)
+- ~$8–10M ARR, ~100 employees, **51 active Freedom clients**
+- 4,000 MAUs on one live Wayroo client (Paparazzi) — proof-of-concept no competitor can dispute
 - 2025 closed: $1.84M across 9 deals; top deal Tropic Skin Care at $900K
 - 2026 YTD (April): $474K closed (LemonGrass, JBloom), 48 open opps
 - Highest-converting channel: Partners/referrals at 71.4% lead-to-opp conversion vs. 2.5% for Google Ads
-- No published case study yet — building one from the live 4,000-MAU client is the single highest-leverage marketing asset
+- Churn driver: client bankruptcy (not competitive displacement — a strong retention signal)
+
+**Flagship case study (Paparazzi — unpublished, build immediately):**
+> 4,000 Paparazzi reps generated **$31M in sales in 2025** — a **60%+ increase over 2024** — using Wayroo.
+This is the single highest-leverage marketing asset. It is not yet published anywhere.
+
+**Platform credibility stats (from sales deck):**
+- 25 years in the industry
+- $7B+ in bonus payouts processed
+- 36,000+ bonus runs executed
+- 2,700+ compensation plans built
+- 185 countries, 74 languages supported
+- Companies scaled from startup to $1B+ on the platform
+
+**Client logos (current/past):** Bravenly, Healthy Home, Jordan Essentials, L'Bri, Neffful International, New U Life, Purehaven, Paparazzi, SendOutCards, Somnvie, Youngevity, Zilis
+
+**Third-party validation:**
+- DSA (Direct Selling Association) Partnership Award Winner
+- DSN Premier Supplier Partner 2026
+- Capterra: 4.8 stars
 
 **2025 acquisition channel performance:**
 
@@ -207,10 +226,13 @@ One app to sell, get paid, and manage customers — so you spend your time selli
 - **Engineers:** 25+ (across Freedom and Wayroo)
 - **Data:** 1
 - **Research:** 1
+- **Sales:** Dedicated sales rep — Daniel Lang, Global Sales Executive (daniel.lang@bydesign.com, 813.848.8657)
 - **Marketing tools:** Salesforce (CRM), Capterra, Google Ads, Zoominfo, Claude.ai
 
 **Team size:** ~100 total  
-**Monthly budget for GTM:** [TBD — currently ~$3K/month based on 2025 actuals]
+**Annual paid marketing budget:** ~$36,400 ($17,000 Google Ads + $19,345 Capterra). Strong organic presence means paid spend is supplemental, not primary.  
+**Sales cycle:** 4+ months minimum  
+**Partner channel:** Formal relationships with independent consultants. Brett Duncan confirmed as one partner. Converts at 71.4% — highest-quality channel by far.
 
 ---
 
@@ -239,12 +261,29 @@ One app to sell, get paid, and manage customers — so you spend your time selli
 
 ## 10. Voice & Brand
 
-**Tone:** Direct, practical, confident — built for busy operators (DSO leaders and reps) who don't have time for fluff. Avoid MLM stigma language. Lead with outcomes and data, not hype.  
-**Messaging hierarchy:**
-1. DSO audience: ROI, rep activation rates, retention, compliance/FTC protection, real-time visibility
-2. Rep audience: simplicity, speed, earning more, one app to replace everything
+**Desired voice:** Confident, brief, outcome-first. Inspired by Treel.ai ("The Revenue AI Operating System") — bold category-defining language, short punchy sentences, no fluff. Lead with what you get, not what it does.
 
-**Existing brand assets:** Wayroo brand exists (logo, colors). ByDesign/Retail Success brand exists. No unified GTM messaging system yet.
+**Move away from:** Current deck voice — generic empowerment language ("Empowering Direct Sellers Worldwide"), feature-first structure, safe corporate tone. The deck does not reflect the Paparazzi results or Wayroo's differentiated story.
+
+**Current tagline in use:** "The Future Starts Now" (video slide). This is directionally bold but untethered to any specific outcome.
+
+**Current website headline:** "One Platform That Connects Corporate Strategy to Field Action" — assessment: repetitive, feature-descriptive, not outcome-first. Needs a rewrite.
+
+**Messaging hierarchy:**
+1. DSO audience: outcomes first (rep activation rate, retention, $31M in rep sales), then how
+2. Rep audience: simplicity and speed — one app replaces everything you're duct-taping together
+
+**Tone:** Direct. Brief. Specific numbers over vague claims. No hype words. Treat DSO leaders as smart operators who want evidence, not inspiration.
+
+**Existing brand assets:**
+- ByDesign brand: logo (black/white pinwheel), blue accent (#0033FF approx.), clean sans-serif
+- Wayroo brand: exists separately
+- Credibility badges: DSA Partnership Award, DSN Premier Supplier 2026, Capterra 4.8
+- Client logos available for social proof slides
+
+**Events (2026):**
+- DSU conference — attended, generated leads
+- Paparazzi conference — July 2026 (attendance planned)
 
 ---
 
@@ -287,5 +326,8 @@ One app to sell, get paid, and manage customers — so you spend your time selli
 - **Value Proposition Canvas** — Confluence: [5. Value Prop Canvas](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/363200541)
 - **Competitor analysis (Fluid, deep-dive)** — `outputs/research-synthesis/competitor-analysis-fluid-2026-04-26.md`
 - **Competitive Analysis page (Aice, Rallyware)** — Confluence skeleton exists, needs populating
+- **Sales deck (ByDesign)** — 8-slide deck exists. Assessment: feature-heavy, Wayroo underrepresented ("gives your field the ability to sell anytime, anywhere" — one line), Paparazzi $31M stat missing entirely. Needs a Wayroo-specific version or a major rewrite.
 
-**Not yet done:** Case study, messaging framework, positioning statement (battle-tested), GTM playbook, sales battlecards, website copy audit.
+**Sales deck strengths to preserve:** Client logo wall (Paparazzi, Youngevity, Zilis, etc.), credibility badge row (DSA/DSN/Capterra), platform stats ($7B payouts, 36K bonus runs, 25 years).
+
+**Not yet done:** Paparazzi case study, Wayroo-specific sales deck, messaging framework, positioning statement (battle-tested), GTM playbook, sales battlecards, website copy audit, Wayroo one-pager for reps.
