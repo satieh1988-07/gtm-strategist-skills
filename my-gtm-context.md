@@ -1,147 +1,291 @@
 # My GTM Context
 
-> **Tip:** You can edit this file manually, or just tell Claude *"I want to set up my GTM context"* and it will interview you about your product, market, and goals — then fill this in for you.
-
-Fill in the sections below. Every skill reads this file to personalize its output for your specific product and market. You don't need to complete everything at once — fill in what you know, and the skills will ask you about anything that's missing.
+**Last Updated:** April 30, 2026  
+**Owner:** Sam Atieh — Product Marketing, Retail Success / ByDesign Technologies  
+**Focus:** Wayroo (rep-facing mobile app) + Freedom Back Office (DSO management platform)
 
 ---
 
 ## 1. Product / Service
 
-What do you do? Describe your product or service in 2-3 sentences.
+**Freedom Back Office** is an all-in-one DSO management platform built specifically for the MLM/direct selling industry. It handles corporate back office operations: compensation engines, genealogy management, eCommerce, inventory, and CRM for Direct Selling Organizations (DSOs).
 
-```
-[Your answer here]
-```
+**Wayroo** is the rep-facing mobile app that connects to Freedom. It gives independent field sellers one app to sell, accept payments, manage inventory, get paid next-day, and run their entire rep business — replacing the patchwork of Venmo, Square, spreadsheets, and disconnected tools most reps use today.
 
-**Product type:** [SaaS / Service / Physical product / Marketplace / Other]
-**Stage:** [Idea / Pre-launch / Just launched / Post-launch / Scaling]
-**Website:** [URL if you have one]
+Together, Freedom + Wayroo is the only end-to-end platform in direct selling that connects corporate back office to the field rep's mobile experience in one integrated system.
+
+**Product type:** SaaS  
+**Stage:** Growth  
+**Website:** https://retailsuccess.com/
 
 ---
 
 ## 2. Target Market
 
-Who is it for? Who would benefit most from your product?
+**Primary:** Direct Selling Organizations (DSOs) in the MLM industry — specifically VP of Sales, Founders, and CEOs at companies with 300–10,000 reps in the US and Canada.
 
-```
-[Your answer here]
-```
+**Secondary:** Independent sales reps/distributors operating under a DSO — measured on personal sales volume and monthly earnings.
 
-**B2B or B2C:** [B2B / B2C / Both]
-**Company size (if B2B):** [Startup / SMB / Mid-market / Enterprise]
-**Geography:** [Where are your target customers located?]
+**B2B or B2C:** B2B (DSOs are the buyer) with a B2C end-user layer (reps adopt Wayroo)  
+**Company size:** Mid-market (300–10,000 distributors)  
+**Geography:** US-primary; Canada secondary. No international expansion planned for 2026.
 
 ---
 
 ## 3. Ideal Customer Profile (ICP)
 
-If you could only choose ONE type of customer — who would it be?
+**ICP 1 — DSO Leaders** (Primary Buyer)  
+VP of Sales, Founder/CEO, or Field Operations Director at a mid-market MLM organization (200–4,000 reps) in jewelry, skincare, wellness, or adjacent categories. Measured on rep headcount growth, rep retention, and total wholesale/retail sales volume. Currently on legacy back-office (Exigo), generic CRM, or disconnected tools with no unified rep visibility.
 
-```
-[Your answer here]
-```
+**ICP 2 — Sales Reps** (End User / Adoption Driver)  
+Independent field seller under a DSO. Juggling 4–6 disconnected tools (Square/PayPal, spreadsheets, email, Canva). Measured on personal sales volume and monthly earnings. The DSO signs the contract; the rep drives adoption and transaction volume.
 
-**Job title / role (if B2B):**
-**Key characteristics:**
-**Where they hang out online:**
+**Job title / role:** VP of Sales, Founder, CEO (buyer) + Independent Rep (end user)  
+**Key characteristics:** Resource-constrained, growth-oriented DSO with a rep force that is under-equipped, under-activated, and churning faster than recruiting can cover  
+**Buying triggers:** Rep activation failure, high turnover, regulatory/FTC pressure, competitor platform displacing them (Party Platform Solutions, Thatcher)  
+**Where they hang out:** DSA (Direct Selling Association) events, ANMP conference, MLM industry referral networks, Capterra/G2
 
 ---
 
 ## 4. Problem & Value
 
-What problem does your product solve? What unique value does it bring to your ICP?
+### The Core Problem
 
-```
-Problem: [Your answer here]
-Value: [Your answer here]
-```
+**For DSO Leaders:**
+Direct selling organizations are flying blind in their own field. Reps sign up but never activate. Companies have no real-time visibility into what reps are selling, who's struggling before they quit, or what tools reps are using in the field. The result: high rep turnover, no auditable retail transaction record (FTC risk), and no ability to coach or hold the field accountable.
 
-**Evidence / social proof (if any):**
+**For Reps:**
+Reps run their business across 4–6 disconnected tools (Square, PayPal, Venmo, spreadsheets, separate invoicing, Canva) — paying for each separately, losing time switching between them, and losing sales from payment friction. No single tool does everything they need.
+
+### Prioritized Problems — DSO ICP (scored 1–15)
+
+| Score | Problem |
+|-------|---------|
+| 15 | Reps lose sales in the field due to payment friction (no card reader, wrong payment type) |
+| 13 | No scalable marketing distribution to reps — reps go off-brand or go dark |
+| 13 | Rep financial health: slow payouts + high transaction fees = "is this worth it?" |
+| 13 | No visibility into rep sales activity — coaching is reactive or absent |
+| 13 | Low rep activation + high rep turnover as a unified growth problem |
+
+### Prioritized Problems — Rep ICP (scored 1–15)
+
+| Score | Problem |
+|-------|---------|
+| 15 | App fragmentation — running a business across 4–6 disconnected tools (root problem) |
+| 15 | Losing sales at the moment of purchase due to payment friction |
+| 14 | Unbranded invoicing undermines customer trust |
+| 14 | Too much admin time vs. selling time |
+| 14 | High transaction fees eating into rep margin |
+
+### Strategic Positioning Reframe (from ICP Discovery)
+
+> **"Reps who use multiple tools sell less, earn less, and quit faster. Wayroo replaces all of them with one app — so reps spend their time selling, not managing software."**
+
+For DSOs:
+> **"Every tool your rep uses that isn't Wayroo is a tool you can't see, can't control, and can't support."**
+
+Wayroo is not a POS or an inventory tool — it's the **operating system for the field rep's business**.
+
+### Value Proposition
+
+**For DSO Leaders:**  
+Wayroo is the all-in-one mobile business app built for direct selling reps — giving DSO leaders the tools to activate reps faster, reduce turnover, and drive more revenue, without the chaos of managing multiple platforms or third-party integrations.
+
+**For Reps:**  
+One app to sell, get paid, and manage customers — so you spend your time selling, not figuring out software.
+
+**Value Prop Canvas — Pain Relievers:**
+
+| Pain | How Wayroo Relieves It |
+|------|----------------------|
+| Fragmented multi-app experience | One mobile app replaces every tool a rep needs |
+| Commission delays and errors | Next-day payouts eliminate the #1 trust-killer |
+| No visibility into rep activity | Sales dashboards give leaders real-time insight |
+| Slow time-to-first-sale | Native mobile POS + ecommerce storefront ready immediately |
+| Admin burden killing rep productivity | Invoicing, shipping, inventory managed in-app |
+| Inconsistent customer experience | Branded rep storefronts + standardized checkout |
+
+**Value Prop Canvas — Gain Creators:**
+
+- **Rep activation accelerator** — a rep can download and make their first sale the same day
+- **Rep confidence engine** — removes every "I don't know how to do that" moment
+- **DSO intelligence layer** — leaders stop flying blind, start making data-driven coaching decisions
+- **Revenue compounding** — every improvement in activation and retention directly scales company revenue
+- **Competitive recruitment differentiator** — DSOs offering Wayroo attract reps leaving disorganized competitors
+
+**Evidence / social proof:** 4,000 MAUs on one live client. No published case study yet — producing one is the highest-leverage marketing asset.
 
 ---
 
 ## 5. Business Model
 
-How do you (or will you) make money?
+**Primary Revenue:** Monthly platform fee + per-user licensing (DSO pays for both ByDesign users and Wayroo users). Payments rev-share is the growth engine — every transaction through Wayroo POS and the Freedom shopping cart generates revenue share.
 
-```
-[Your answer here]
-```
+**Pricing Tiers:**
 
-**Pricing model:** [Subscription / One-time / Usage-based / Freemium / Other]
-**Price point:** [Current or planned pricing]
-**How does your price compare to alternatives?**
+| Tier | Platform | ByDesign User | Wayroo User | Target |
+|------|----------|--------------|-------------|--------|
+| Lite | $2,000–$2,500/mo | $3/user/mo | $5/user/mo | Startup DSOs |
+| Standard | $3,000–$4,000/mo | $3/user/mo | $5/user/mo | Mid-market DSOs |
+| Enterprise | $10,000+/mo | Included | Included | Large DSOs |
+
+**Avg deal size:** $100,000 (range: $50K–$300K)  
+**ARR:** ~$8–10M  
+**Avg new client MRR:** ~$25K  
+
+**North Star Metric:** Rep sales volume through Wayroo and replicated sites. If this number goes up, reps earn more, DSOs are happy, and transaction rev-share increases.
+
+**Pricing model:** Subscription + transaction revenue share  
+**vs. alternatives:** Party Platform Solutions recently raised prices significantly — their clients are actively leaving. Wayroo is the financially predictable option.
 
 ---
 
 ## 6. Competitive Landscape
 
-Who are the main alternatives your customers consider? (Include direct competitors AND alternative solutions like spreadsheets, agencies, doing nothing, etc.)
+### Direct Competitors
 
-```
-[Your answer here]
-```
+**Exigo** — Largest player. Enterprise MLM back-office platform. Strong: established brand, deep comp engine. Weak: no native mobile selling app; reps are an afterthought. Market position: back-office only. Wayroo is additive to Exigo, not a rip-and-replace, which lowers DSO adoption risk.
 
-**Your key differentiator:**
-**Why are you better for your ICP specifically?**
+**Aice** — Growing rep-facing platform. Strong: AI tools, modern UX, social selling features, $15M raised March 2026 earmarked for AI. Weak: ecommerce requires a Shopify integration (extra cost, extra complexity, split rep experience — no native POS). Threat: if Aice locks up 3–5 mid-market DSOs in the next 6 months, it creates reference anchors. Monitor closely.
+
+**Rallyware** — Sales enablement and training platform. Strong: training/coaching workflows, social selling tools. Weak: not a commerce or transaction platform — no POS, no payouts, no inventory. Positioned around training; Wayroo positioned around selling.
+
+**Party Platform Solutions** — Party plan back-office. Recently raised prices significantly. Clients actively leaving. Primary Party 2.0 acquisition target.
+
+**Thatcher** — Party plan back-office going bankrupt. Near-term acquisition opportunity — their clients are in market now.
+
+**Fluid** — "We-Commerce" front-end layer for DSOs (raised $15M March 2026). Competes with Wayroo at the rep layer, not Freedom at the back-office layer. Key weakness: always requires a second vendor. No payout infrastructure, no compliance tooling, no commission engine.
+
+### Competitive Feature Map (Wayroo vs. Aice vs. Rallyware)
+
+| Capability | Wayroo | Rallyware | Aice |
+|-----------|--------|-----------|------|
+| Mobile POS | ✅ Native | ❌ | ❌ |
+| Ecommerce Storefront | ✅ Native | ❌ | ⚠️ Shopify dependency |
+| Real-time inventory management | ✅ | ❌ | ❌ |
+| Next-day payouts | ✅ | ❌ | ❌ |
+| Mobile invoicing | ✅ | ❌ | ❌ |
+| Integrated shipping | ✅ | ❌ | ❌ |
+| Sales dashboards & reports | ✅ | Limited | Limited |
+| Sales enablement / training | Limited | ✅ Core | ✅ Core |
+| Social selling tools | Limited | ✅ | ✅ |
+
+**Key insight:** Rallyware and Aice are sales enablement platforms. Wayroo is a business management and transaction platform. Wayroo wins when the pain is operational (rep turnover, fragmented tools, slow activation, commission issues).
+
+**Your key differentiator:** The only platform connecting corporate back office (Freedom) to a native mobile rep experience (Wayroo) with no data gaps — plus next-day payouts, real retail transaction tracking for FTC compliance, and no third-party integration dependencies.
+
+**Why better for ICP:** DSOs get a complete audit trail of real retail transactions (compliance), full rep visibility (coaching), and one vendor instead of two or three. Reps get one app that replaces everything.
 
 ---
 
 ## 7. Traction & Evidence
 
-What evidence do you have that this can work? (Users, revenue, waitlist signups, interviews, pilot results, etc.)
+- ~$8–10M ARR, ~100 employees
+- 4,000 MAUs on one live client (proof-of-concept, real usage data)
+- 2025 closed: $1.84M across 9 deals; top deal Tropic Skin Care at $900K
+- 2026 YTD (April): $474K closed (LemonGrass, JBloom), 48 open opps
+- Highest-converting channel: Partners/referrals at 71.4% lead-to-opp conversion vs. 2.5% for Google Ads
+- No published case study yet — building one from the live 4,000-MAU client is the single highest-leverage marketing asset
 
-```
-[Your answer here]
-```
+**2025 acquisition channel performance:**
+
+| Channel | Opps | Close Rate | Closed Revenue |
+|---------|------|-----------|----------------|
+| Website organic | 34 | ~17% | $570,910 |
+| Google Natural Search | 16 | ~56% | $900,000 |
+| Partners / Relationships | 5 | 71.4% | $159,300 |
+| Google Ads | 5 | 0% | $0 |
+| Capterra | 7 | ~29% | $213,275 |
 
 ---
 
 ## 8. Team & Resources
 
-Who is working on this? What resources do you have available?
+- **PM:** 1 (Sam Atieh owns product + GTM strategy)
+- **BAs:** 3
+- **Designers:** 2.5
+- **Engineers:** 25+ (across Freedom and Wayroo)
+- **Data:** 1
+- **Research:** 1
+- **Marketing tools:** Salesforce (CRM), Capterra, Google Ads, Zoominfo, Claude.ai
 
-```
-[Your answer here]
-```
-
-**Team size:**
-**Key skills on the team:**
-**Monthly budget for GTM:**
+**Team size:** ~100 total  
+**Monthly budget for GTM:** [TBD — currently ~$3K/month based on 2025 actuals]
 
 ---
 
 ## 9. Goals & Constraints
 
-What are you trying to achieve in the next 90 days? What constraints should the skills keep in mind?
+**90-day goal:**  
+- 180 new leads per quarter (15/week) to support $2M new sales revenue for 2026
+- 50/50 organic vs. paid split
+- 15% lead-to-opportunity conversion rate
+- 5 new DSOs signed by EOY 2026
+- Grow MAU from 4,000 → 10,000+
 
-```
-90-day goal: [Your answer here]
-Key constraints: [Your answer here]
-```
+**2026 Objectives:**
+1. Accelerate new client revenue growth (+35% booked revenue by Q4)
+2. Increase transaction volume through platform rev-share (+20% payments)
+3. Drive Wayroo user adoption from existing ByDesign clients (+300% cross-sell)
+
+**Key constraints:**
+- Small team, resource-constrained — simplest version that works wins
+- No international expansion in 2026 (US-only for Wayroo)
+- No Freedom UI redesign — engineering focused on Wayroo and Party 2.0
+- Enterprise sales cycles are 3–6 months — pipeline must be built now for EOY closes
+- Need social proof urgently: zero published case studies, zero testimonials
 
 ---
 
 ## 10. Voice & Brand
 
-How do you want to sound? Any brand guidelines to follow?
+**Tone:** Direct, practical, confident — built for busy operators (DSO leaders and reps) who don't have time for fluff. Avoid MLM stigma language. Lead with outcomes and data, not hype.  
+**Messaging hierarchy:**
+1. DSO audience: ROI, rep activation rates, retention, compliance/FTC protection, real-time visibility
+2. Rep audience: simplicity, speed, earning more, one app to replace everything
 
-```
-[Your answer here]
-```
-
-**Tone:** [Professional / Casual / Technical / Friendly / Bold / Other]
-**Existing brand assets:** [Logo, colors, fonts — or "starting from scratch"]
+**Existing brand assets:** Wayroo brand exists (logo, colors). ByDesign/Retail Success brand exists. No unified GTM messaging system yet.
 
 ---
 
-## 11. Prior Work
+## 11. SWOT Summary (Wayroo)
 
-Have you already completed any GTM work? List what exists so skills can build on it rather than start from scratch.
+**Strengths:**
+- Purpose-built for direct selling — hard moat
+- 4,000 MAUs on a live client — proof-of-concept competitors can't dispute
+- Dual-sided value: every DSO contract activates hundreds to thousands of reps automatically
+- Most advanced compensation engine in the industry (Freedom)
+- Native next-day payouts (competitors lack this entirely)
 
-```
-[Your answer here]
-```
+**Weaknesses:**
+- Only 1 client — no competitive references, no replicable case study
+- Feature story is bloated — no clear "hero use case" for sales conversations
+- No documented GTM or repeatable sales motion
+- Social proof gap — no testimonials, no ROI data, no published outcomes
+- Dual ICP (DSOs + reps) without distinct messaging tracks risks confusing both audiences
 
-Examples: "We did 15 customer interviews", "We have a landing page at xyz.com", "We tested pricing with 50 prospects"
+**Opportunities:**
+- Underserved vertical — most DSOs on legacy Exigo or generic CRMs
+- Party plan subsector in displacement (Party Platform Solutions price hikes, Thatcher bankruptcy) — immediate acquisition window
+- Industry is tight-knit: one strong DSO reference creates outsized referral weight
+- AI differentiation window — if Wayroo ships rep-facing AI before Aice consolidates that position
+- DSA event presence puts Wayroo in front of 20+ DSO decision-makers simultaneously
+
+**Threats:**
+- Aice gaining momentum with funding and AI positioning — needs a competitive battlecard now
+- Exigo could extend into rep-facing features from its back-office position
+- Long enterprise sales cycles: 5 DSOs by EOY requires pipeline open now
+- High rep churn in MLM (50%+ annual attrition) makes MAU targets fragile
+- Reputational risk by MLM association — positioning must signal legitimate direct selling
+
+---
+
+## 12. Prior Work (Outputs to Build On)
+
+- **SWOT Analysis** — Confluence: [3. Claude - SWOT Analysis](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/363921445)
+- **ICP Problem Discovery & Prioritization** — Confluence: [4. ICP Problem Discovery](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/363855920)
+- **Value Proposition Canvas** — Confluence: [5. Value Prop Canvas](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/363200541)
+- **Competitor analysis (Fluid, deep-dive)** — `outputs/research-synthesis/competitor-analysis-fluid-2026-04-26.md`
+- **Competitive Analysis page (Aice, Rallyware)** — Confluence skeleton exists, needs populating
+
+**Not yet done:** Case study, messaging framework, positioning statement (battle-tested), GTM playbook, sales battlecards, website copy audit.
