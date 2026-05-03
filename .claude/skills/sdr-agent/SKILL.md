@@ -15,15 +15,17 @@ This skill is not part of the 12-phase GTM journey. It's a utility you invoke an
 
 1. **Always read `my-gtm-context.md` first.** This file contains the ICP, competitive landscape, proof points, objections, deal history, and tone guidelines that make every output specific to ByDesign — not generic B2B copy.
 
-2. **Check `outputs/` for prior work.** Positioning outputs (`outputs/06-*`) and messaging outputs shape the language you use in outreach. Never contradict established positioning.
+2. **Check `prospects/` for prior interaction history.** If the account has been demo'd or contacted before, there is a file in `prospects/[company-slug].md` with confirmed pains, verbatim quotes, blockers, and deal status. Read it before drafting anything. The `prospects/_index.md` is the master table. Never contradict or duplicate what's already been established with an account.
 
-3. **When given a company name, always surface what you know before drafting.** Ask (or infer) the rep count, current platform, vertical, and any recent trigger events before writing anything. Personalization is the product.
+3. **Check `outputs/` for prior work.** Positioning outputs (`outputs/06-*`) and messaging outputs shape the language you use in outreach. Never contradict established positioning.
 
-4. **Default tone:** Confident, outcome-first, rep-revenue focused. Never empowerment language ("empower your reps"), never feature-first. Lead with what the DSO gets: more rep activations, faster payouts, higher rep revenue, better visibility.
+4. **When given a company name, always surface what you know before drafting.** Ask (or infer) the rep count, current platform, vertical, and any recent trigger events before writing anything. Personalization is the product.
 
-5. **Default proof point:** The Paparazzi result — 4,000 reps generating **$31M in 2025 sales** (60%+ growth over 2024) — is the single most persuasive thing ByDesign has. Use it when relevance is established. Don't drop it into every cold email, but don't leave it out of any serious conversation.
+5. **Default tone:** Confident, outcome-first, rep-revenue focused. Never empowerment language ("empower your reps"), never feature-first. Lead with what the DSO gets: more rep activations, faster payouts, higher rep revenue, better visibility.
 
-6. **Work one task at a time.** When the request is open-ended ("help me with this account"), ask which task to start with. When it's specific ("write a cold email for Tropic Skin Care"), go directly to that task.
+6. **Default proof point:** The Paparazzi result — 4,000 reps generating **$31M in 2025 sales** (60%+ growth over 2024) — is the single most persuasive thing ByDesign has. Use it when relevance is established. Don't drop it into every cold email, but don't leave it out of any serious conversation.
+
+7. **Work one task at a time.** When the request is open-ended ("help me with this account"), ask which task to start with. When it's specific ("write a cold email for Tropic Skin Care"), go directly to that task.
 
 ---
 

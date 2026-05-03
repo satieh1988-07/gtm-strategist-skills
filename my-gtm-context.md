@@ -1,6 +1,6 @@
 # My GTM Context
 
-**Last Updated:** April 30, 2026  
+**Last Updated:** May 3, 2026  
 **Owner:** Sam Atieh — Product Marketing, Retail Success / ByDesign Technologies  
 **Focus:** Wayroo (rep-facing mobile app) + Freedom Back Office (DSO management platform)
 
@@ -12,7 +12,18 @@
 
 **Wayroo** is the rep-facing mobile app that connects to Freedom. It gives independent field sellers one app to sell, accept payments, manage inventory, get paid next-day, and run their entire rep business — replacing the patchwork of Venmo, Square, spreadsheets, and disconnected tools most reps use today.
 
+**Wayroo's dual-storefront model (confirmed differentiator):**
+Reps operating on Wayroo have access to two distinct selling surfaces, both managed from the same platform:
+
+1. **Wayroo personal ecommerce storefront** — the rep's own store for their personal inventory. The rep controls their own pricing, discounts, bundles, and marketing. Customers can browse and purchase the rep's specific stock directly. This is the cash-and-carry rep's digital stall — a real sub-business tool, not a static product page.
+
+2. **Replicated site** (offered through ByDesign/Wayroo) — the DSO's full product catalog, replicated for each rep. When a customer purchases through the replicated site, the rep earns commission or credit. Customers can move intuitively between the rep's personal Wayroo storefront and the replicated site, giving them access to the rep's personal stock AND the full DSO catalog in a single, seamless experience.
+
+The flow between the two is seamless and intuitive — confirmed by Brick B (Color Street) who named it unprompted. Reps have two income streams; customers have two purchase paths; DSOs have visibility into both. No competitor offers this dual-store architecture natively.
+
 Together, Freedom + Wayroo is the only end-to-end platform in direct selling that connects corporate back office to the field rep's mobile experience in one integrated system.
+
+**Party v2 (releasing soon):** ByDesign is releasing an updated party plan feature set (Party v2) within Freedom. This is directly relevant to DSOs with party plan history — host rewards, in-home parties, consultant-led events. DSOs that have both a cash-and-carry rep model AND party plan roots (e.g., Color Street) are candidates for Wayroo now and Freedom/Party v2 later. Flag these accounts for Party v2 outreach on release.
 
 **Product type:** SaaS  
 **Stage:** Growth  
@@ -26,7 +37,12 @@ Together, Freedom + Wayroo is the only end-to-end platform in direct selling tha
 
 **Secondary:** Independent sales reps/distributors operating under a DSO — measured on personal sales volume and monthly earnings.
 
-**B2B or B2C:** B2B (DSOs are the buyer) with a B2C end-user layer (reps adopt Wayroo)  
+**B2B or B2C:** Two distinct GTM tracks, at different stages:
+
+- **Track 1 — B2B (DSO-first, current motion):** DSO corporate leadership is the buyer. They sign the contract; reps adopt Wayroo via corporate mandate. All current sales activity (Daniel's pipeline, Color Street, Paparazzi, etc.) operates on this track. Messaging targets VP Sales, Founders, CEOs, and Field Operations Directors.
+
+- **Track 2 — Direct-to-Rep (future motion, not yet active):** Selling directly to the individual rep — independent of whether their DSO has a Wayroo contract. Messaging, channels, and value props are entirely different from Track 1. This track is in planning; the personas, messaging, and GTM motion have not yet been developed. Do not conflate with Track 1 in any current deliverable.
+
 **Company size:** Mid-market (300–10,000 distributors)  
 **Geography:** US-primary; Canada secondary. No international expansion planned for 2026.
 
@@ -37,13 +53,36 @@ Together, Freedom + Wayroo is the only end-to-end platform in direct selling tha
 **ICP 1 — DSO Leaders** (Primary Buyer)  
 VP of Sales, Founder/CEO, or Field Operations Director at a mid-market MLM organization (200–4,000 reps) in jewelry, skincare, wellness, or adjacent categories. Measured on rep headcount growth, rep retention, and total wholesale/retail sales volume. Currently on legacy back-office (Exigo), generic CRM, or disconnected tools with no unified rep visibility.
 
-**ICP 2 — Sales Reps** (End User / Adoption Driver)  
-Independent field seller under a DSO. Juggling 4–6 disconnected tools (Square/PayPal, spreadsheets, email, Canva). Measured on personal sales volume and monthly earnings. The DSO signs the contract; the rep drives adoption and transaction volume.
+**ICP 1a — Cash & Carry DSO Leaders** (High-Value Sub-Segment of ICP 1)  
+Same buyer profile as ICP 1, but at organizations where a significant portion (~50–80%) of reps carry and sell personal physical inventory — rather than fulfilling direct-to-customer catalog orders. Common in jewelry, accessories, cosmetics, nail/beauty categories.
+
+**Defining behaviors:**
+- **Vendor events are the primary sales channel** — reps regularly participate in markets, pop-ups, fairs, and in-home parties. A mobile POS is not optional; it is the business. Wayroo's barcode POS is purpose-built for this.
+- **Party plan roots are common** — many C&C DSOs originated as or still operate with party plan mechanics (host rewards, consultant-led events). These accounts are candidates for both Wayroo (rep commerce, now) and Freedom Party v2 (host rewards and party mechanics, on release).
+- **Reps want automated inventory, not spreadsheets** — reps will not maintain manual stock counts. The winning inventory tool auto-syncs wholesale orders on receipt and updates stock counts on each sale. This is both an adoption requirement and a compliance enabler.
+
+**Key differentiating pains:** Corporate has zero visibility into rep inventory after wholesale ships; no customer records from in-person transactions; customers of reps receive no invoices or shipping tracking (trust and repeat-purchase gap); active FTC and tax compliance exposure from untracked cash/Venmo sales.
+
+**Example:** Color Street (~70% cash-and-carry, 20,000–30,000 stylists, traditional party plan company with host rewards, left Exigo March 2026).
+
+**ICP 2 — Sales Reps** (End User for Track 1 / Direct Buyer for Track 2)  
+Independent field seller under a DSO. Juggling 4–6 disconnected tools (Square/PayPal, spreadsheets, email, Canva). Measured on personal sales volume and monthly earnings.
+
+- **In Track 1 (current):** The rep is the end user, not the buyer. The DSO signs the contract; the rep adopts via corporate mandate. Reps adopt Wayroo when the DSO mandates it — Paparazzi (4,000 MAUs) confirms this. Adoption is a corporate rollout problem, not a grassroots one.
+- **In Track 2 (future):** The rep is the direct buyer. This track has not yet been developed — personas, messaging, channels, pricing, and GTM motion are all TBD. Do not use Track 1 DSO messaging for this audience.
+
+**Rep Adoption Signal (Track 1):** Sell the DSO; the reps follow. Paparazzi is the proof.
 
 **Job title / role:** VP of Sales, Founder, CEO (buyer) + Independent Rep (end user)  
 **Key characteristics:** Resource-constrained, growth-oriented DSO with a rep force that is under-equipped, under-activated, and churning faster than recruiting can cover  
 **Buying triggers:** Rep activation failure, high turnover, regulatory/FTC pressure, competitor platform displacing them (Party Platform Solutions, Thatcher)  
 **Where they hang out:** DSA (Direct Selling Association) events, ANMP conference, MLM industry referral networks, Capterra/G2
+
+**Confirmed DSO ICP Value Preferences (from Color Street demo, May 2026):**
+
+- **One-stop-shop, not another app.** DSO leaders do not want to give reps yet another standalone tool to learn, maintain, and log into separately. They have deliberately consolidated rep tools into a single environment (e.g., Shopify VO) to reduce rep friction and support burden. Wayroo's multi-feature breadth (POS + inventory + invoicing + storefront + payouts + shipping in one app) is the one-stop-shop argument. This is a strength — but Wayroo must also integrate into the DSO's existing rep environment rather than sit beside it. Pitch: "One app replaces everything your reps are cobbling together — and it lives right where they already work."
+
+- **Reps as sub-business owners.** DSOs want their reps to feel and operate like real independent entrepreneurs — with their own branded presence, their own inventory, their own customer relationships — all under the DSO's brand umbrella. Wayroo directly enables this: a rep gets a personal branded storefront, their own POS, their own inventory view, their own customer records, all tied back to corporate. This "rep sub-business" model is a recruitment and retention differentiator — DSOs offering this infrastructure attract better reps and keep them longer. Pitch Wayroo not just as a tool for corporate visibility, but as the infrastructure that makes reps feel like they're running a real business.
 
 ---
 
@@ -52,7 +91,15 @@ Independent field seller under a DSO. Juggling 4–6 disconnected tools (Square/
 ### The Core Problem
 
 **For DSO Leaders:**
-Direct selling organizations are flying blind in their own field. Reps sign up but never activate. Companies have no real-time visibility into what reps are selling, who's struggling before they quit, or what tools reps are using in the field. The result: high rep turnover, no auditable retail transaction record (FTC risk), and no ability to coach or hold the field accountable.
+Direct selling organizations are flying blind in their own field. Reps sign up but never activate. Companies have no real-time visibility into what reps are selling, who's struggling before they quit, or what tools reps are using in the field. The result: high rep turnover, no auditable retail transaction record (FTC compliance failure), and no ability to coach or hold the field accountable.
+
+**Regulatory Compliance Context (Critical for Positioning — Two mandates, not one):**
+
+**FTC Compliance:** The FTC requires DSOs to demonstrate that products are being sold to real end customers — not just bulk-loaded onto reps as a disguised income scheme. Every sale that goes through Venmo, cash, or PayPal with no customer record is an unauditable transaction and a compliance liability. This is a universal DSO problem. For cash-and-carry DSOs, the exposure is acute because the majority of rep selling activity happens outside any tracked channel. Wayroo's branded invoicing, customer record capture, and transaction audit trail directly address the FTC's retail sales documentation requirement. No competitor (Square, Venmo, PayPal) creates a customer record that DSO corporate can access or audit.
+
+**Tax Compliance:** DSO reps are typically independent contractors. Both the rep and the DSO have tax obligations tied to the rep's selling activity. The DSO must issue 1099s based on rep earnings and, in many states, track sales tax collection on retail transactions. When reps sell through Venmo or cash with no invoice, there is no paper trail for earnings reporting (rep's 1099-NEC) or sales tax jurisdiction tracking (DSO's obligation). Wayroo's transaction record — customer, amount, date, location — provides the data layer that makes both obligations fulfillable. This is not just a compliance argument; it is an audit protection argument. One IRS or state tax audit without records is an existential event for a DSO.
+
+**Customer Data for DSO Marketing (Strategic Gain — beyond compliance):** When a rep sells through Venmo or cash, the customer identity is invisible to corporate. The DSO cannot market to those customers, cannot launch loyalty programs, cannot run retargeting campaigns, and cannot build a direct relationship with buyers who are already purchasing their products. Wayroo captures the customer record at the point of rep sale and surfaces it to the DSO's CRM — turning the rep's customer base into a DSO marketing asset. This is a direct revenue driver: DSOs can send product launches, promotions, and loyalty offers to customers they previously had no way to reach. For large cash-and-carry DSOs (e.g., Color Street with 20,000+ stylists), this could represent tens of thousands of customer records that are currently invisible to corporate marketing.
 
 **For Reps:**
 Reps run their business across 4–6 disconnected tools (Square, PayPal, Venmo, spreadsheets, separate invoicing, Canva) — paying for each separately, losing time switching between them, and losing sales from payment friction. No single tool does everything they need.
@@ -62,10 +109,26 @@ Reps run their business across 4–6 disconnected tools (Square, PayPal, Venmo, 
 | Score | Problem |
 |-------|---------|
 | 15 | Reps lose sales in the field due to payment friction (no card reader, wrong payment type) |
+| 15 | No auditable retail transaction record — FTC compliance exposure (universal to all DSOs) |
+| 15 | No tax paper trail for rep earnings (1099) or sales tax jurisdiction tracking |
+| 14 | DSO cannot market to its own customers — rep customer data is invisible to corporate |
 | 13 | No scalable marketing distribution to reps — reps go off-brand or go dark |
 | 13 | Rep financial health: slow payouts + high transaction fees = "is this worth it?" |
 | 13 | No visibility into rep sales activity — coaching is reactive or absent |
 | 13 | Low rep activation + high rep turnover as a unified growth problem |
+
+**Cash & Carry DSO Addendum (ICP 1a specific):**
+
+| Score | Problem |
+|-------|---------|
+| 15 | Zero corporate visibility into rep physical inventory after wholesale ships |
+| 15 | No customer records from cash/Venmo/PayPal in-person sales (FTC + tax + CRM triple blind spot) |
+| 15 | Entire field-level customer database is invisible — DSO cannot market to buyers its own reps sold to |
+| 14 | Brand integrity risk — reps post unofficial photos, wrong descriptions, renamed products |
+| 14 | Rep customers receive no invoice or shipping tracking from cash/Venmo sales — damages customer trust and removes repeat purchase pathway |
+| 13 | Product expiration/quality issues: DSO cannot see who holds old/expiring stock to intervene before customer complaints |
+| 13 | Rep inventory management is manual (Excel) — reps won't maintain it, leading to inaccurate stock counts and compliance gaps |
+| 12 | Rep-to-rep informal inventory transfers — untracked, unformalized, untaxed |
 
 ### Prioritized Problems — Rep ICP (scored 1–15)
 
@@ -104,6 +167,12 @@ One app to sell, get paid, and manage customers — so you spend your time selli
 | Slow time-to-first-sale | Native mobile POS + ecommerce storefront ready immediately |
 | Admin burden killing rep productivity | Invoicing, shipping, inventory managed in-app |
 | Inconsistent customer experience | Branded rep storefronts + standardized checkout |
+| FTC compliance exposure | Every transaction creates an auditable customer record DSO corporate can access |
+| Tax paper trail gaps | Transaction records support rep 1099 issuance and sales tax jurisdiction tracking |
+| Invisible field-level customer base | Rep customer records surface to DSO CRM — corporate can market to them directly |
+| No invoice or tracking for rep customers | Every Wayroo sale auto-generates a branded invoice + shipping tracking for the customer — closes the trust gap, reduces "where's my order?" calls, creates a repeat purchase pathway |
+| Manual rep inventory management | Wholesale orders auto-sync into rep inventory on receipt; stock counts update on each sale — zero manual entry required, higher adoption, better compliance trail |
+| Product expiration invisible to corporate | DSO can set expiration dates per SKU; Wayroo surfaces which reps hold expiring stock before customer complaints arrive |
 
 **Value Prop Canvas — Gain Creators:**
 
@@ -112,6 +181,12 @@ One app to sell, get paid, and manage customers — so you spend your time selli
 - **DSO intelligence layer** — leaders stop flying blind, start making data-driven coaching decisions
 - **Revenue compounding** — every improvement in activation and retention directly scales company revenue
 - **Competitive recruitment differentiator** — DSOs offering Wayroo attract reps leaving disorganized competitors
+- **Compliance shield** — FTC and tax audit trail built into every transaction; no manual reconciliation required
+- **Hidden customer base unlocked** — DSO gains direct marketing access to the customers reps have been selling to for years via cash/Venmo; enables retargeting, loyalty programs, product launch campaigns, and upsell to a previously invisible audience
+- **One-stop-shop for reps** — Wayroo replaces Square, Excel, Venmo, PayPal, and a separate storefront with one app, reducing rep tool fatigue and DSO support overhead simultaneously
+- **Rep sub-business infrastructure** — Wayroo gives each rep a branded storefront, POS, inventory management, and customer CRM — the tools to operate like a real entrepreneur under the DSO's umbrella. Stronger rep ownership = lower churn, higher productivity, better recruitment story
+- **Dual income stream for reps** — Reps earn from personal inventory sales (Wayroo storefront) AND from commission on full catalog sales (replicated site). Two revenue paths from one platform; makes the rep's eSuite fee easy to justify
+- **eSuite pass-through removes cost objection** — DSOs already charge reps a monthly technology fee (eSuite). Wayroo's per-user cost can be bundled into the existing eSuite charge — the DSO does not absorb the fee, reps do. For large DSOs, Wayroo is cost-neutral or revenue-positive at the corporate level
 
 **Evidence / social proof:** 4,000 MAUs on one live client. No published case study yet — producing one is the highest-leverage marketing asset.
 
@@ -137,6 +212,11 @@ One app to sell, get paid, and manage customers — so you spend your time selli
 
 **Pricing model:** Subscription + transaction revenue share  
 **vs. alternatives:** Party Platform Solutions recently raised prices significantly — their clients are actively leaving. Wayroo is the financially predictable option.
+
+**eSuite fee pass-through model (confirmed — Color Street demo, May 2026):**
+DSOs already charge reps a monthly technology access fee called an eSuite fee. This fee covers the rep's access to the DSO's tech stack. Wayroo's per-user fee ($5/user/month) can be structured as a pass-through within the DSO's existing eSuite billing — meaning the DSO collects the Wayroo fee from reps rather than absorbing it as a cost. For large DSOs (10,000–30,000 stylists), Wayroo becomes cost-neutral or revenue-positive at the rep level. This directly counters the per-user cost objection in pricing conversations: *"Your reps already pay you a monthly eSuite fee — Wayroo can simply become part of that."*
+
+**Cash & Carry Pricing Opportunity:** C&C DSOs have high in-person transaction volume — event-heavy models mean reps run many card transactions at vendor markets. This creates a real opportunity to charge both a per-user SaaS fee AND a transaction revenue share if the feature set (inventory management, "My Stash" storefront, barcode POS, Spendback, brand catalog control) is compelling enough to justify dual-track pricing. C&C DSOs may accept SaaS + transaction fees where standard DSOs are more fee-sensitive, because the feature set solves genuinely different (and higher-severity) pains. The eSuite pass-through model makes the SaaS component especially palatable. Explore dual model in next C&C discovery calls.
 
 ---
 
@@ -346,3 +426,21 @@ This is the single highest-leverage marketing asset. It is not yet published any
 - Copy audit needed — current messaging needs to shift to outcome-first, confident voice
 
 **Not yet done:** Paparazzi case study, Wayroo-specific sales deck, messaging framework, positioning statement (battle-tested), GTM playbook, sales battlecards, Wayroo website copy rewrite, Wayroo one-pager for reps.
+
+---
+
+## 13. Prospect Intelligence Library
+
+Structured records of what was learned from prospect interactions — confirmed pains, features that resonated, blockers, and GTM implications. Updated after every demo or discovery call.
+
+**Index:** `prospects/_index.md`  
+**Template for new accounts:** `prospects/_template.md`
+
+| Prospect | GTM Segment | Key Intel | File |
+|----------|-------------|-----------|------|
+| Color Street | Cash & Carry DSO | Left Exigo; custom commission engine + Shopify stack; Wayroo-only deal (no Freedom pitch); "My Stash" concept validated; blocked on Shopify integration | [prospects/color-street.md](prospects/color-street.md) |
+
+**How skills should use this:**
+- Before any outreach or call prep, read the relevant prospect file
+- When building GTM assets (positioning, messaging, battlecards), cross-reference confirmed pains and verbatim quotes from prospect files
+- When identifying ICP patterns, look for signals that repeat across multiple prospect files
