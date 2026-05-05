@@ -241,6 +241,9 @@ One app to sell, get paid, and manage customers — so you spend your time selli
 **Pricing model:** Subscription + transaction revenue share  
 **vs. alternatives:** Party Platform Solutions recently raised prices significantly — their clients are actively leaving. Wayroo is the financially predictable option.
 
+**Merchant account model — structural pricing differentiator vs. Shopify:**
+Shopify runs a single merchant account for the DSO: the DSO absorbs all transaction fees (3% — highest in category) across every rep's sales, plus pays a monthly license. Wayroo inverts this: each rep is their own independent business with their own merchant account. Reps pay their own per-transaction fees; the DSO pays only the Wayroo license fee. Because replicated retail site orders are a small portion of total DSO sales volume, the fees reps absorb are not burdensome. This model also reduces DSO financial liability — rep chargebacks, disputes, and payment fraud sit with the individual rep merchant, not the DSO. Combined with the eSuite fee pass-through (DSO can recover the license fee from reps), Wayroo can be cost-neutral or revenue-positive for the DSO at scale.
+
 **eSuite fee pass-through model (confirmed — Color Street demo, May 2026):**
 DSOs already charge reps a monthly technology access fee called an eSuite fee. This fee covers the rep's access to the DSO's tech stack. Wayroo's per-user fee ($5/user/month) can be structured as a pass-through within the DSO's existing eSuite billing — meaning the DSO collects the Wayroo fee from reps rather than absorbing it as a cost. For large DSOs (10,000–30,000 stylists), Wayroo becomes cost-neutral or revenue-positive at the rep level. This directly counters the per-user cost objection in pricing conversations: *"Your reps already pay you a monthly eSuite fee — Wayroo can simply become part of that."*
 
@@ -264,6 +267,25 @@ DSOs already charge reps a monthly technology access fee called an eSuite fee. T
 
 **Fluid** — "We-Commerce" front-end layer for DSOs (raised $15M March 2026). Competes with Wayroo at the rep layer, not Freedom at the back-office layer. Key weakness: always requires a second vendor. No payout infrastructure, no compliance tooling, no commission engine.
 
+**Shopify** — Competes with both Freedom (ecommerce / back-office layer) and Wayroo (rep-facing commerce). Shopify is integrated with ByDesign Freedom's back office via a cart integration, so it can appear as a partner — but it is also a direct competitor for DSOs evaluating rep-facing commerce tools.
+
+Key competitive facts:
+- **3% processing rate** — the highest of any comparable ecommerce platform. This is a specific, citable cost differentiator in every Shopify competitive conversation.
+- **Single merchant account model** — Shopify runs one merchant account for the DSO. The DSO absorbs every processing fee across all rep transactions, plus pays a monthly license fee. For a large DSO (10,000–30,000 reps), the cumulative 3% fee on total sales volume is a significant, ongoing cost burden.
+- **Replicated sites** — Shopify offers replicated sites, competing directly with Wayroo's replicated site feature.
+- **Financial liability exposure** — Because all transactions run under the DSO's single merchant account, the DSO carries the liability for every rep's chargebacks, disputes, and payment fraud.
+
+**Wayroo's structural advantage over Shopify:**
+- Each Wayroo rep operates as their own independent business with their own merchant account
+- Reps pay their own processing fees per transaction (wholesale orders and replicated site retail orders) — not the DSO
+- The DSO pays the Wayroo license fee only; transaction liability sits with the individual rep merchant
+- Replicated retail site orders represent a small portion of a DSO's total sales volume, so the per-transaction fees reps absorb on those are not burdensome
+- Result: DSO has materially lower financial liability, lower ongoing cost, and a more defensible merchant structure
+
+**TCO argument against Shopify:** For a DSO with 20,000 reps, compare: (a) Shopify — DSO absorbs 3% on all transactions + monthly license + single merchant liability; vs. (b) Wayroo — DSO pays license fee only (eSuite pass-through to reps), reps pay their own transaction fees as independent merchants. The gap widens with scale.
+
+**Note on Aice:** Aice's ecommerce layer requires a Shopify integration — meaning DSOs that choose Aice are also inheriting Shopify's 3% processing rate and single merchant account structure. Wayroo's native commerce (no Shopify dependency) avoids this cost entirely.
+
 ### Competitive Feature Map (Wayroo vs. Aice vs. Rallyware)
 
 | Capability | Wayroo | Rallyware | Aice |
@@ -285,8 +307,8 @@ DSOs already charge reps a monthly technology access fee called an eSuite fee. T
 **Why better for ICP:** DSOs get a complete audit trail of real retail transactions (compliance), full rep visibility (coaching), and one vendor instead of two or three. Reps get one app that replaces everything.
 
 **Top sales objections:**
-1. **Cost** — price sensitivity is real; counter with TCO argument (Shopify transaction fees + integration costs + multiple vendor fees vs. one platform) and the Paparazzi $31M/$60%+ growth proof point
-2. **Outdated shopping cart UI vs. Shopify** — prospects see Shopify as the modern standard; acknowledge the gap, pivot to the total cost of Shopify (transaction fees, integration overhead, split rep experience) and the Party 2.0 / shopping cart upgrade roadmap
+1. **Cost** — price sensitivity is real; counter with TCO argument: Shopify charges 3% on all transactions (highest in category) under a single DSO merchant account — the DSO absorbs every fee. Wayroo's model has the DSO paying a license fee only; reps pay their own transaction fees as independent merchants. At scale, Wayroo is materially cheaper. Reinforce with Paparazzi $31M/$60%+ growth proof point.
+2. **Outdated shopping cart UI vs. Shopify** — prospects see Shopify as the modern standard; acknowledge the gap, then surface the 3% processing rate and single merchant account liability. The "modern" UI has a significant hidden cost the DSO is absorbing on every transaction. Pivot to Party 2.0 / shopping cart upgrade roadmap.
 
 **What closes deals:**
 1. Prospects coming from a worse platform — the bar is low enough that Freedom + Wayroo wins on reliability and completeness

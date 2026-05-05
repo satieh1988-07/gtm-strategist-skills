@@ -53,6 +53,8 @@ Color Street (like most DSOs) charges reps a monthly eSuite fee — a technology
 **Competitive context:**
 Color Street **left Exigo** approximately 2 months before the May 1 demo (March 2026). They are NOT looking for a Freedom/back office replacement — that problem is solved with their custom engine. They chose to build custom because Exigo's limitations outweighed switching to another off-the-shelf back office. This makes them a **Wayroo-only prospect**, not a Freedom + Wayroo opportunity.
 
+**Shopify cost implication (relevant to this deal):** Color Street is actively on Shopify as their ecommerce and rep VO layer. Shopify's processing rate is 3% — the highest of any comparable platform — and runs under a single DSO merchant account, meaning Color Street absorbs all transaction fees across every stylist's sales and carries the financial liability for chargebacks and disputes. Wayroo's per-rep merchant account model shifts transaction fees to individual stylists (as independent merchants) and moves financial liability off the DSO. For a DSO with 20,000–30,000 stylists at Color Street's volume, this is a meaningful structural cost and liability argument. Surface this in the technical scoping call — Edmond evaluates integration feasibility, but the CFO/CEO evaluates total cost. This is a deal-expanding argument.
+
 The Shopify integration requirement is not just a technical preference — it is a philosophical one. Color Street has deliberately built a one-stop-shop experience for stylists inside Shopify VO. Adding a separate app would require reps to context-switch and maintain another tool, which goes against their product philosophy. Wayroo must slot into the existing experience, not add to it.
 
 ---
