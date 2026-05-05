@@ -192,6 +192,7 @@ One app to sell, get paid, and manage customers — so you spend your time selli
 | Slow time-to-first-sale | Native mobile POS + ecommerce storefront ready immediately |
 | Admin burden killing rep productivity | Invoicing, shipping, inventory managed in-app |
 | Inconsistent customer experience | Branded rep storefronts + standardized checkout |
+| No visibility into rep sales activity — coaching is reactive or absent | All rep inventory sales are pushed back to the DSO's back office in real time. DSO can see each rep's inventory levels and sales velocity, identify reps with stuck inventory, and proactively coach before the rep churns or the product expires. Coaching becomes proactive, not reactive. |
 | FTC compliance exposure | Every transaction creates an auditable customer record DSO corporate can access |
 | Tax paper trail gaps | Transaction records support rep 1099 issuance and sales tax jurisdiction tracking |
 | Invisible field-level customer base | Rep customer records surface to DSO CRM — corporate can market to them directly |
@@ -209,7 +210,9 @@ One app to sell, get paid, and manage customers — so you spend your time selli
 - **Compliance shield** — FTC and tax audit trail built into every transaction; no manual reconciliation required
 - **Hidden customer base unlocked** — DSO gains direct marketing access to the customers reps have been selling to for years via cash/Venmo; enables retargeting, loyalty programs, product launch campaigns, and upsell to a previously invisible audience
 - **One-stop-shop for reps** — Wayroo replaces Square, Excel, Venmo, PayPal, and a separate storefront with one app, reducing rep tool fatigue and DSO support overhead simultaneously
-- **Rep sub-business infrastructure** — Wayroo gives each rep a branded storefront, POS, inventory management, and customer CRM — the tools to operate like a real entrepreneur under the DSO's umbrella. Stronger rep ownership = lower churn, higher productivity, better recruitment story
+- **Rep sub-business infrastructure** — Wayroo gives each rep a branded storefront, POS, inventory management, and customer CRM — the tools to operate like a real entrepreneur under the DSO's umbrella. Stronger rep ownership = lower churn, higher productivity, better recruitment story. Brick B (Color Street) called the inventory management features collectively a "massive business tool" for reps.
+- **Rep-to-rep wholesale inventory transfers** — Wayroo allows inventory transfers between reps. Common use case: Rep A has inventory but can't sell it; Rep B has a buyer lined up → Rep A transfers to Rep B. This happens constantly in C&C DSOs, especially when specific SKUs run low. Wayroo formalizes what is currently an informal (untracked, untaxed) workflow — every transfer becomes a corporate-visible, auditable event.
+- **Proactive rep coaching via back-office inventory visibility** — all rep inventory sales push back to the DSO's back office. DSO field ops can see each rep's inventory level and sales velocity, identify reps with stuck inventory, and proactively reach out with coaching. Transforms field management from reactive to proactive.
 - **Dual income stream for reps** — Reps earn from personal inventory sales (Wayroo storefront) AND from commission on full catalog sales (replicated site). Two revenue paths from one platform; makes the rep's eSuite fee easy to justify
 - **eSuite pass-through removes cost objection** — DSOs already charge reps a monthly technology fee (eSuite). Wayroo's per-user cost can be bundled into the existing eSuite charge — the DSO does not absorb the fee, reps do. For large DSOs, Wayroo is cost-neutral or revenue-positive at the corporate level
 

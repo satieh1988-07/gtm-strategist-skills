@@ -192,10 +192,13 @@ Not call-specific — this is a structural product differentiator relevant to ev
 - Why it matters for C&C: Cash-and-carry reps need fast capital turnover — Spendback directly solves the "money tied up in inventory" problem
 - Action: Lead agenda item in follow-up call
 
-**10. Rep-to-Rep Wholesale Transfers**
-- Signal: Brick confirmed it already happens informally
-- Why it matters: Formalizing what's already happening builds loyalty without creating a new behavior
-- Action: Demo in follow-up; this differentiates from Square entirely
+**10. Rep-to-Rep Wholesale Inventory Transfers — Confirmed, Common Workflow**
+- Signal: Brick confirmed this is constant and common in C&C DSOs — **upgraded from Tier 3 to confirmed**
+- Confirmed use case: Rep A has inventory but can't move it; Rep B has a buyer lined up → Rep A transfers to Rep B through Wayroo. Happens especially when inventory of a specific SKU runs low across the field.
+- Why it matters: This is already happening informally (untracked, side deals between reps, no corporate visibility, no tax record). Wayroo formalizes what is already a real behavior — every transfer becomes a tracked, corporate-visible, auditable event. No new behavior required from reps; just a formalized version of what they already do.
+- Competitive differentiation: No other rep-facing tool (Square, Venmo, Excel) supports rep-to-rep inventory transfers at all. This is a Wayroo-exclusive workflow in the market.
+- Brick's quote: *"Massive business tool"* — his strongest endorsement of any feature in the call, applied to inventory management and transfers collectively.
+- Assumption map update: Assumption #7 ("Rep-to-rep transfers are common across C&C DSOs") should be elevated from certainty 2 → 4 for C&C DSOs specifically based on Brick's confirmation. Still validate across other C&C accounts.
 
 ---
 
@@ -211,7 +214,7 @@ Before building GTM motion around this segment, these assumptions need validatio
 | 4 | Customer data ownership is a strategic priority for C&C DSO leadership | **5** | 4 | ~~High~~ **CONFIRMED** | Elevated from preference to compliance requirement (FTC mandate). Edmond: "We don't own those customers." |
 | 5 | LuLaRoe lineage is widely known across C&C rep populations | 3 | 3 | Medium | Validate — Color Street's top stylists are ex-LuLaRoe, but this may not hold across all C&C DSOs |
 | 6 | "Function over fashion" (low white-label appetite) is typical for C&C DSOs | 2 | 3 | Medium | Validate in next interviews |
-| 7 | Rep-to-rep transfers are common across C&C DSOs, not just Color Street | 2 | 3 | Medium | Validate in next interviews |
+| 7 | Rep-to-rep transfers are common across C&C DSOs, not just Color Street | **4** | 3 | Medium | Elevated from 2→4. Brick: confirmed as constant/common at Color Street, especially when SKUs run low. Still validate segment-wide in next 4+ interviews, but strong confidence for C&C DSOs as a category. |
 | 8 | Transaction-fee-only pricing is preferred over SaaS by C&C DSOs | 2 | 4 | **Revised** | Dual model (SaaS + transaction fee) is viable if feature set justifies it — C&C DSOs have high in-person transaction volume and unique feature needs. Explore in next discovery calls. |
 
 **Leap of Faith assumptions (High Impact + Low Certainty):** #3, #5, #6, #7 — the three original LOF assumptions (#1, #2, #4) are now confirmed.  
@@ -326,6 +329,7 @@ Using the April Dunford framework adapted for this segment:
 - Add to Daniel's prospecting list: jewelry/accessories DSOs with event-heavy or inventory-carry models
 - New discovery question to add to call prep: *"What percentage of your reps sell from personal inventory vs. catalog orders?"* — this is the qualification filter for the C&C segment
 - New objection prep: Shopify integration — need a standard response on feasibility and timeline before next outreach to similar accounts
+- **Demo sequencing gap (confirmed — Color Street):** C&C prospects may leave a demo without understanding that Wayroo fully replaces Square and Venmo for in-person payments — not supplements them. This is a repeatable risk: Square is the incumbent and prospects default to assuming they'll keep it. Every C&C demo must include an explicit POS displacement moment: walk the in-person checkout flow end to end, name Square directly ("this is what replaces Square"), and show how guest checkout + payment links replace informal Venmo transactions. Do this before the Shopify integration conversation — Edmond cannot evaluate payment separation until he understands Wayroo IS the payment processor.
 
 ---
 
