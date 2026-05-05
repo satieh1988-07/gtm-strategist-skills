@@ -1,6 +1,6 @@
 # Prospect: Color Street
 
-**Last updated:** May 3, 2026 (rev 2)  
+**Last updated:** May 5, 2026 (rev 3)  
 **Stage:** Demo complete — blocked on Shopify integration; technical scoping call needed  
 **Owner:** Daniel Lang (sales) / Cassie Lewis (account) / Autumn Fowers (product/demo)  
 **GTM Segment:** Cash & Carry DSO  
@@ -87,15 +87,16 @@ The Shopify integration requirement is not just a technical preference — it is
 | Rep personal storefront ("My Stash") | 🔴 Highest | Brick coined the name unprompted. He started pitching it to Edmond in real time. Wants it embedded in Shopify VO. |
 | Corporate visibility into rep inventory (inventory sync post-shipment) | 🔴 High | Multi-layered: throwback campaigns, expiration tracking, discontinuation cleanup, rep-to-rep transfers |
 | Customer data ownership / CRM capture from in-person sales | 🔴 High | Edmond raised strategically — not just operational, but a data/marketing gap |
-| Mobile POS at vendor events (replaces Square) | 🔴 High | C&C stylists do vendor events, pop-ups, and markets constantly — POS is not optional for this model. Barcode scanner, shipping labels, guest checkout, fast transaction flow all confirmed relevant. |
-| Automated, low-friction inventory management | 🔴 High | Reps want inventory that manages itself — auto-sync when wholesale ships, not manual Excel updates. The easier the inventory management, the higher the adoption and the better the compliance trail. |
+| Mobile POS at vendor events — bluetooth scanning + manual mark-sold | 🔴 High | C&C stylists do vendor events, pop-ups, and markets constantly — POS is not optional for this model. Two modes for tracking sales at an event: (1) **Bluetooth barcode scanning** — as the rep sells each item, they scan the barcode; because SKUs already exist in Wayroo from the wholesale order, each scan decrements inventory automatically in real time; (2) **Search + mark sold** — rep searches for the item and marks how many units were sold, no scanner needed. Edmond specifically reacted positively to this — he said it was straightforward and he liked it. His only concern was Shopify integration, not the feature itself (reinforces that his resistance is architectural, not product skepticism). Barcode scanner, shipping labels, guest checkout confirmed relevant. |
+| Automated, low-friction inventory management | 🔴 High | Reps order wholesale bulk inventory directly from within Wayroo. Inventory items appear in the app immediately on order placement — no manual entry. The rep then marks items as received as the physical stock arrives (could be a full order at once or partial as boxes come in). Stock counts update automatically on each subsequent sale. The rep never touches a spreadsheet. The easier the inventory, the higher the adoption and the better the compliance trail. |
 | Expiration date / freshness tracking per SKU | 🟡 Strong | DSO can set expiration dates on inventory items and see which stylists hold old stock — enables proactive customer service outreach before complaints arrive. Specific to perishable/time-sensitive products (nail strips, skincare). |
 | Branded invoice + shipping tracking for rep customers | 🟡 Strong | Every Wayroo sale generates a branded invoice with shipping tracking for the customer — closes the trust gap that cash/Venmo sales leave open and creates a repeat purchase pathway. |
 | Host rewards (party plan feature — Freedom) | 🟡 Future opportunity | Color Street has host rewards as an active program (traditional party plan model). Freedom supports host rewards natively. Party v2 (releasing soon) is directly relevant. Not raised in the demo — neither side surfaced it. Should be introduced in follow-up as a future expansion angle. |
 | **Wayroo ecommerce storefront (rep's personal store)** | 🔴 High | Brick explicitly called out the rep ecommerce storefront as *new* and valuable for Color Street stylists. Reps can list their personal inventory, run their own discounts, create bundles, and do their own marketing — all from their Wayroo storefront. This is a real sub-business tool, not just a product listing page. |
-| **Replicated site integration** | 🔴 High | Reps can also send customers to the replicated site (the DSO's full catalog, offered through ByDesign/Wayroo), where the customer can browse the full product range and the rep earns commission or credit on any purchase. Two earning mechanisms in one platform: direct sales from personal inventory (Wayroo storefront) + commission from DSO catalog sales (replicated site). |
-| **Intuitive dual-storefront flow (Wayroo store ↔ replicated site)** | 🔴 High | Brick specifically highlighted that the flow between the rep's personal Wayroo storefront and the DSO replicated site is *very intuitive* — customers can move between the two seamlessly. This is a UX differentiator Brick noticed and named unprompted. |
-| Brand catalog control (official images, descriptions pulled from corporate) | 🟡 Strong | Surfaced by Cassie; Brick agreed immediately |
+| **Replicated site integration — corporate catalog with brand-controlled images and descriptions** | 🔴 High | Reps send customers to the replicated site (the DSO's full catalog, offered through ByDesign/Wayroo), where the customer can browse the full product range and the rep earns commission or credit on any purchase. **Brand control mechanism:** the replicated site automatically pulls corporate inventory with the DSO's official product images and descriptions — reps cannot substitute their own photos, rename products, or use unofficial descriptions on the replicated site. The DSO controls how every product appears to every customer, at scale, across every rep's replicated site. Two earning mechanisms in one platform: direct sales from personal inventory (Wayroo storefront) + commission from DSO catalog sales (replicated site, brand-controlled). |
+| **Intuitive dual-storefront flow: replicated site → personal Wayroo storefront** | 🔴 High | Brick specifically highlighted the directional customer flow: a rep can direct customers *from* the replicated site (full DSO catalog, drop-ship, rep earns commission) *into* the rep's personal Wayroo storefront (rep's own physical inventory for direct purchase). The customer moves seamlessly between both without friction. Brick called the flow "very intuitive" — unprompted observation. No standalone C&C tool offers this two-way navigation between a wholesale commission catalog and a rep's personal stock. |
+| **Wayroo admin portal — rep personal inventory sales & orders dashboard** | 🔴 High | Brick called out the Wayroo admin portal's ability to show DSO leadership a dashboard of each rep's personal inventory sales and orders as a standout capability. **The portal serves two audiences from the same tool:** (1) the **rep** logs in to see their own sales and orders — their own business intelligence, replacing the mental model or Excel spreadsheet they use today; (2) the **DSO admin** sees across all reps — field-wide visibility into what the cash-and-carry channel is actually doing. Combined with the dual-storefront model, this gives the DSO complete visibility into both rep revenue streams: personal inventory direct sales (Wayroo storefront) AND commission from DSO catalog sales (replicated site). Brick described the combination of dual-storefront + admin dashboard together as "very intriguing." This is a **package differentiator** — the three features together (replicated site management, intuitive customer flow, admin dashboard for rep AND DSO) form a complete rep commerce visibility system that no competitor offers. |
+| Brand catalog control via replicated site (official images, descriptions pulled from corporate) | 🟡 Strong | Surfaced by Cassie; Brick agreed immediately. The mechanism is the replicated site itself — corporate inventory populates it with official images and descriptions automatically. Reps cannot override this on the replicated site. A separate but related risk exists on the rep's personal Wayroo storefront (for their own inventory listings) — this is where unofficial photos and renamed products can still appear, and where brand catalog control features on the personal storefront side matter. |
 | Spendback (rep wholesale purchasing credit) | 🟡 Unfinished | Autumn mentioned it, Edmond asked about it — ran out of time. Lead item for follow-up. |
 | Rep-to-rep wholesale transfers | 🟡 Interesting | Brick confirmed it already happens informally. Formalizing it was interesting but not explored. |
 | LuLaRoe lineage credibility | ✅ Trust signal | When Autumn mentioned Wayroo built the LuLaRoe app, Edmond said "Oh, okay. That makes sense." Many top Color Street stylists are ex-LuLaRoe. |
@@ -109,6 +110,14 @@ The Shopify integration requirement is not just a technical preference — it is
 | **Shopify integration (hard requirement)** | Wayroo must appear as a sub-section within the Shopify VO — not a standalone app. Wayroo has never integrated with Shopify in this context. Autumn believes the API makes it feasible but a technical scoping call is needed. | Autumn Fowers + Wayroo tech team | Open — scoping call not yet scheduled |
 | **SSO / user management** | Edmond wants stylists to log into Shopify and navigate to Wayroo without a separate login | Technical call | Open |
 | **Payment processing separation** | They want Wayroo transactions isolated from Shopify Payments / Shop Pay. Autumn confirmed Wayroo replaces Square — needs to be clarified formally. | Follow-up call | Open |
+
+---
+
+## Confirmed Pains — Additional (from Brick B / Brian)
+
+| Pain | Severity (1–5) | Source | Verbatim Quote |
+|------|---------------|--------|---------------|
+| Reps spend time on non-revenue admin tasks instead of selling | 5 | Brick B (Brian) | *"Reps spend lots of time doing admin tasks such as printing shipping labels, maintaining inventory spreadsheets, and none of these activities generate revenue."* — Cross-account validated: same theme confirmed by 3 current ByDesign clients + Color Street. |
 
 ---
 
@@ -129,6 +138,10 @@ The Shopify integration requirement is not just a technical preference — it is
 > *"Function over fashion, like I mean, our ladies aren't like, you know... more if it was functional"* — Brick B (on white-labeling)
 
 > *[On the flow between Wayroo storefront and replicated site]* "Very intuitive." — Brick B (unprompted observation about the dual-storefront UX)
+
+> *"Reps spend lots of time doing admin tasks such as printing shipping labels, maintaining inventory spreadsheets, and none of these activities generate revenue."* — Brick B (Brian), Color Street
+
+> *[On bluetooth barcode scanning for inventory]* "[He] liked this feature and it was straightforward."* — Edmond Kim (paraphrase; positive product reaction — his concern was Shopify integration, not the feature)
 
 ---
 
@@ -170,9 +183,21 @@ The "My Stash" concept — a branded, scannable personal storefront for rep inve
 - **Shopify integration is a real product requirement** for at least one validated prospect. If other DSOs have migrated to Shopify-based stacks (post-Exigo), this is not a one-off request — it is an emerging integration need.
 - **"Sub-section within VO" UX** — Edmond's framing reveals that the rep experience must feel native to the back office environment, not a separate app download. This is a UX/integration architecture requirement worth flagging to the product team.
 - **SSO** is table stakes for this buyer type. No separate login tolerance.
-- **Automated inventory sync is a rep adoption requirement.** Reps will not manually manage inventory in an app. Wholesale orders must auto-sync into the rep's inventory view on receipt — zero manual entry. The easier the inventory, the higher the adoption and the better the compliance trail.
+- **Wholesale ordering from within Wayroo is the inventory foundation.** Reps order bulk wholesale inventory directly inside Wayroo. Inventory items appear immediately in the app on order placement. The rep marks items as received as stock physically arrives. Stock counts update automatically on each sale. Zero manual entry at any step. Reps will not maintain a separate spreadsheet — the tool has to own the entire inventory lifecycle from order to sale. The easier this is, the higher the adoption and the better the DSO's compliance trail.
 - **Branded invoice + shipping tracking for rep customers** is a customer experience feature, not just an operational one. It closes the trust gap that Venmo/cash leaves open, creates a repeat purchase pathway, and generates the customer record compliance requires — all from a single transaction event.
 - **Party v2 is a future expansion signal.** Color Street is a traditional party plan company with active host rewards. Freedom supports host rewards; Party v2 (releasing soon) expands this capability. This wasn't raised in the demo but is directly relevant. When Party v2 ships, Color Street is a natural reintroduction — even as a Wayroo-only account today, the party plan angle could bring Freedom into the conversation later.
+
+### Rep commerce visibility package — a combinatorial differentiator
+
+Brick's reaction to the combination of (1) replicated site management, (2) intuitive customer flow between replicated site and personal storefront, and (3) admin portal sales/orders dashboard points to a **package-level differentiator** — not three separate features. The compelling insight for a Field Ops buyer is:
+
+- Reps have two earning surfaces (personal inventory + DSO catalog commission)
+- Customers can move between both frictionlessly
+- The DSO admin can see all of it from one dashboard
+
+None of these alone is the differentiator. The combination is. This is the "rep commerce visibility system" framing: Wayroo gives the rep a complete business infrastructure AND gives the DSO complete visibility into what that business is doing. Use this package framing in the Field Champion track (Brick archetype) — lead with the rep sub-business vision, land with the admin dashboard as the proof that corporate stays in control.
+
+**Reusability:** This package framing is not Color Street-specific. Any C&C DSO buyer who cares about field visibility AND rep experience will respond to it. Capture this in positioning outputs as a reusable differentiator.
 
 ### What does this tell us about pricing?
 - **eSuite fee model removes the per-user cost objection.** DSOs already charge reps a monthly technology fee (eSuite). Wayroo's per-user fee ($5/user/month) can be passed directly to reps through this mechanism — the DSO doesn't absorb it, they collect it. For a DSO with 20,000 active stylists, Wayroo's per-user fee becomes a pass-through or a margin opportunity, not a line-item cost. This fundamentally changes how to handle the cost objection in pricing conversations.

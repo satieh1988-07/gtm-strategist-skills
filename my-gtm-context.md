@@ -21,6 +21,17 @@ Reps operating on Wayroo have access to two distinct selling surfaces, both mana
 
 The flow between the two is seamless and intuitive — confirmed by Brick B (Color Street) who named it unprompted. Reps have two income streams; customers have two purchase paths; DSOs have visibility into both. No competitor offers this dual-store architecture natively.
 
+**Wayroo's three sales channels for rep personal inventory:**
+Reps can sell their personal inventory through three distinct channels, all within one app:
+
+1. **Ecommerce storefront** — the rep's branded personal store (described above). Customers browse and purchase online; the rep's inventory is listed with their own pricing, discounts, and bundles.
+
+2. **Invoicing with payment links** — the rep creates and sends a branded invoice to a customer with an embedded payment link. The customer clicks the link to pay. This enables remote sales, post-event follow-up, and custom orders without the customer needing to visit the storefront. Every invoice creates an auditable transaction record (customer identity, amount, date) — directly supporting FTC and tax compliance. This replaces informal PayPal/Venmo invoices that leave no corporate-visible record.
+
+3. **Vendor events / POS** — the rep's in-person selling channel. Because all SKUs already exist in Wayroo from the rep's wholesale order, the rep has two modes for tracking sales at a vendor event: (1) **Bluetooth barcode scanning** — as the rep sells each item, they scan the barcode and inventory decrements automatically in real time; (2) **Search + mark sold** — rep searches for the item and marks how many units were sold, no scanner needed. Wayroo also supports fast checkout, guest checkout, and shipping label printing at an event table. **Tap-to-pay (in development, 2026):** the rep's customer taps their credit card directly on the rep's phone to pay securely — no card reader hardware required. When shipped, this removes the last hardware dependency for in-person sales.
+
+No single competing tool covers all three channels. Square covers POS only. Shopify covers ecommerce only. PayPal covers invoicing/payments only. Wayroo is the only rep-facing app where a single rep can handle an online storefront sale, an invoiced custom order, and an in-person vendor event transaction — all from the same app, all feeding the same inventory and compliance record.
+
 Together, Freedom + Wayroo is the only end-to-end platform in direct selling that connects corporate back office to the field rep's mobile experience in one integrated system.
 
 **Party v2 (releasing soon):** ByDesign is releasing an updated party plan feature set (Party v2) within Freedom. This is directly relevant to DSOs with party plan history — host rewards, in-home parties, consultant-led events. DSOs that have both a cash-and-carry rep model AND party plan roots (e.g., Color Street) are candidates for Wayroo now and Freedom/Party v2 later. Flag these accounts for Party v2 outreach on release.
@@ -59,7 +70,7 @@ Same buyer profile as ICP 1, but at organizations where a significant portion (~
 **Defining behaviors:**
 - **Vendor events are the primary sales channel** — reps regularly participate in markets, pop-ups, fairs, and in-home parties. A mobile POS is not optional; it is the business. Wayroo's barcode POS is purpose-built for this.
 - **Party plan roots are common** — many C&C DSOs originated as or still operate with party plan mechanics (host rewards, consultant-led events). These accounts are candidates for both Wayroo (rep commerce, now) and Freedom Party v2 (host rewards and party mechanics, on release).
-- **Reps want automated inventory, not spreadsheets** — reps will not maintain manual stock counts. The winning inventory tool auto-syncs wholesale orders on receipt and updates stock counts on each sale. This is both an adoption requirement and a compliance enabler.
+- **Reps want automated inventory, not spreadsheets** — reps will not maintain manual stock counts. In Wayroo, reps place wholesale bulk inventory orders directly from within the app; inventory items appear immediately in their Wayroo inventory on order placement, and the rep marks items as received as the physical stock arrives. Stock counts then update automatically on each sale. Zero manual entry at any step. This is both an adoption requirement and a compliance enabler.
 
 **Key differentiating pains:** Corporate has zero visibility into rep inventory after wholesale ships; no customer records from in-person transactions; customers of reps receive no invoices or shipping tracking (trust and repeat-purchase gap); active FTC and tax compliance exposure from untracked cash/Venmo sales.
 
@@ -140,6 +151,20 @@ Reps run their business across 4–6 disconnected tools (Square, PayPal, Venmo, 
 | 14 | Too much admin time vs. selling time |
 | 14 | High transaction fees eating into rep margin |
 
+### Cross-Account Validated Theme: Admin Time vs. Selling Time (4 accounts — May 2026)
+
+**Confirmed across 3 current ByDesign clients + Color Street (prospect).** This is the single most broadly validated rep-level pain in the pipeline and should be treated as a cornerstone of Wayroo's value proposition.
+
+> *"Reps spend lots of time doing admin tasks such as printing shipping labels, maintaining inventory spreadsheets, and none of these activities generate revenue."* — Brick B (Brian), Color Street
+
+**The core insight:** Every minute a rep spends on non-revenue admin (spreadsheet updates, shipping label printing, inventory reconciliation, payment reconciliation) is a minute not spent selling. For reps measured on personal sales volume and income, this is not an abstract inefficiency — it is a direct income cost.
+
+**How Wayroo addresses it:** Bluetooth/barcode scanning at vendor events auto-decrements inventory on each sale; wholesale ordering in-app eliminates manual SKU entry; invoicing with payment links eliminates manual reconciliation; shipping labels print directly from within the app. The rep's administrative surface collapses — what used to require 4–6 separate tools and hours of manual reconciliation becomes a byproduct of normal selling activity.
+
+**GTM implication:** Lead with time and revenue, not features. The discovery question is: *"How much time do your reps spend on admin per week — and how much of that time generates any revenue?"* The answer is never zero and never comfortable. That gap is the product pitch.
+
+**Positioning implication:** "More selling time, less admin time" is not a tagline — it is a measurable, cross-account validated rep outcome. When the Paparazzi case study is written, admin time reduction should be one of the primary metrics captured alongside the $31M sales figure.
+
 ### Strategic Positioning Reframe (from ICP Discovery)
 
 > **"Reps who use multiple tools sell less, earn less, and quit faster. Wayroo replaces all of them with one app — so reps spend their time selling, not managing software."**
@@ -170,8 +195,8 @@ One app to sell, get paid, and manage customers — so you spend your time selli
 | FTC compliance exposure | Every transaction creates an auditable customer record DSO corporate can access |
 | Tax paper trail gaps | Transaction records support rep 1099 issuance and sales tax jurisdiction tracking |
 | Invisible field-level customer base | Rep customer records surface to DSO CRM — corporate can market to them directly |
-| No invoice or tracking for rep customers | Every Wayroo sale auto-generates a branded invoice + shipping tracking for the customer — closes the trust gap, reduces "where's my order?" calls, creates a repeat purchase pathway |
-| Manual rep inventory management | Wholesale orders auto-sync into rep inventory on receipt; stock counts update on each sale — zero manual entry required, higher adoption, better compliance trail |
+| No invoice or tracking for rep customers | Every Wayroo sale auto-generates a branded invoice + shipping tracking for the customer — closes the trust gap, reduces "where's my order?" calls, creates a repeat purchase pathway. Invoicing with payment links also enables reps to send a custom invoice with an embedded payment link for remote or post-event sales — replacing informal Venmo requests with a traceable, branded transaction. |
+| Manual rep inventory management | Reps order wholesale bulk inventory directly from within Wayroo; inventory items appear immediately in the app on order placement; rep marks items as received as stock physically arrives; stock counts update automatically on each sale — zero manual entry at any step, higher adoption, better compliance trail |
 | Product expiration invisible to corporate | DSO can set expiration dates per SKU; Wayroo surfaces which reps hold expiring stock before customer complaints arrive |
 
 **Value Prop Canvas — Gain Creators:**

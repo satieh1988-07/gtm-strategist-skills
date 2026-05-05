@@ -126,26 +126,36 @@ These were not explicitly tested in the Color Street demo but are confirmed stra
 - Pain it relieves: Every cash-and-carry sale today goes through PayPal/Venmo — customer identity disappears
 - What's unique: Wayroo captures the customer record and can push it back to corporate CRM — competitors who process payments (Square) do not do this
 
+**4. Rep Commerce Visibility System — Dual-Storefront + Admin Dashboard (Package Differentiator)**
+- Signal: Brick highlighted the combination of features together, not just individually. Called the package "very intriguing."
+- What it is: Three capabilities that work as a system: (a) rep manages a replicated site — full DSO catalog, customers order and it's drop-shipped, rep earns commission; (b) rep directs customers *from* the replicated site into their personal Wayroo storefront for direct inventory purchases — the flow is seamless; (c) the Wayroo admin portal serves two audiences — the **rep** sees their own sales and orders (personal business intelligence), and the **DSO admin** sees across all reps (field-wide visibility)
+- What's unique: No competitor offers all three in combination. Square does payments. Excel does inventory counting. Neither surfaces the data to corporate. Neither gives the rep a commission catalog. Neither creates a seamless two-surface customer experience. Wayroo does all of it.
+- The combinatorial pitch: "Your reps earn from two surfaces. Your customers move between both intuitively. You can see all of it from the admin portal." — This is a complete system pitch, not a feature list.
+- GTM implication: Lead with the dual-storefront vision (Brick archetype responds to this emotionally), then land with the admin dashboard (the corporate control and visibility argument). Use for both the Field Champion track and the Technical Gatekeeper track — but with different emphases.
+
 ### Tier 2: Strong Validation (Confirmed Problems)
 
-**4. Mobile POS at Vendor Events**
-- Signal: Confirmed without friction — event-heavy model makes this obvious
-- Features validated: Barcode scanner, fast checkout, shipping label printing, guest checkout
-- Competitive displacement: Square is the incumbent; Wayroo wins by bundling inventory + payments + customer data in one flow
+**6. Mobile POS at Vendor Events — Bluetooth Scanning + Manual Mark-Sold**
+- Signal: Confirmed without friction — event-heavy model makes this obvious. Edmond specifically said he liked the bluetooth scanning feature and found it straightforward; his only concern was Shopify integration (architectural, not product skepticism).
+- How it works: Because all SKUs already exist in Wayroo from the rep's wholesale order, two tracking modes are available: (1) bluetooth barcode scan as each item sells → inventory decrements automatically; (2) search for item + mark quantity sold → no scanner needed. Both feed the same inventory count and compliance record.
+- Features validated: Bluetooth barcode scanning, manual search + mark sold, fast checkout, shipping label printing, guest checkout. Tap-to-pay in development 2026 (customer taps card on rep's phone — no hardware).
+- Competitive displacement: Square is the incumbent; Wayroo wins by bundling bluetooth inventory tracking + payments + customer data + compliance record in one flow. Square tracks none of the inventory.
+- Cross-account note: See "Admin Time vs. Selling Time" pattern below — this feature is a direct contributor to reducing the non-revenue admin burden confirmed across 4 accounts.
 
-**5. Brand Integrity on Resell**
+**7. Brand Integrity via Replicated Site — Structural, Not Policy-Based**
 - Signal: Cassie surfaced it, Brick immediately agreed
 - Verbatim: *"You guys would have better control over your brand and how it's being represented even on the resell."*
-- Pain: Reps post unofficial photos, wrong descriptions, sometimes rename products
-- What's unique: By pulling the official corporate catalog (pro images, correct SKUs, descriptions), Wayroo standardizes how the brand appears on every rep's resell page
+- Pain: Reps post unofficial photos, wrong descriptions, sometimes rename products when selling through their own informal channels
+- What's unique: The replicated site automatically populates with the DSO's official corporate inventory — correct product images, authorized descriptions, accurate SKUs. Reps cannot override this on the replicated site. The DSO's brand appears consistently across every rep's replicated site without requiring any rep action or compliance enforcement. This is structural brand control enforced by the architecture — not a brand guideline reps can ignore.
+- Two-tier brand control: The replicated site enforces brand standards automatically (reps have no choice). The rep's personal Wayroo storefront (their own inventory) is where unofficial listings can still appear — brand catalog features on the personal storefront side address this second tier.
 
-**6. LuLaRoe Lineage Credibility**
+**8. LuLaRoe Lineage Credibility**
 - Signal: Edmond said "Oh, okay. That makes sense." — a trust shift in real time
 - Context: Many of Color Street's top-tier stylists came from LuLaRoe in 2017. They know the app. Wayroo built it.
 - GTM implication: This is a beachhead credibility signal, not just a fun fact. Lead with it in Cash & Carry outreach.
 
 **C. Rep Persona Signal: Automated Inventory, Not Manual Work**
-- What it is: Reps do not want to manage a spreadsheet. They want inventory that tracks itself — wholesale orders auto-syncing into their app on receipt, stock counts updating on each sale, low-stock alerts without manual counting.
+- What it is: Reps do not want to manage a spreadsheet. In Wayroo, the rep orders wholesale bulk inventory directly from within the app — inventory items appear immediately on order placement, the rep marks items as received as stock physically arrives, and stock counts update automatically on each sale. Zero manual entry at any step. Low-stock awareness comes from the running count, not from manually counting boxes.
 - Why it matters for DSOs: Automated inventory = higher rep adoption = more complete compliance data. Reps who have to manually update inventory won't do it. Reps whose inventory manages itself will. And every rep who uses Wayroo properly is a rep generating an FTC-compliant transaction record automatically.
 - GTM implication: The "automated inventory" angle is how you sell reps on adoption (Track 2 future motion) and how you sell DSOs on compliance confidence (Track 1 current motion). Same feature, two different frames.
 - Discovery question: "How do your stylists currently track what inventory they have on hand after an event?" The answer will be Excel, their memory, or nothing — all of which are adoption arguments for automated sync.
@@ -158,15 +168,31 @@ These were not explicitly tested in the Color Street demo but are confirmed stra
 
 ---
 
+### Product Context: Three Sales Channels for Rep Personal Inventory (Segment-Wide Differentiator)
+
+Not call-specific — this is a structural product differentiator relevant to every C&C DSO prospect. No competing rep-facing app offers all three channels in one tool.
+
+| Channel | What It Is | Competitive Displacement |
+|---------|-----------|--------------------------|
+| **Ecommerce storefront** | Rep's branded personal online store — their own pricing, discounts, bundles | Shopify (requires separate tool + monthly cost) |
+| **Invoicing with payment links** | Rep creates a branded invoice and sends it with an embedded payment link. Customer clicks to pay. Enables post-event follow-up and remote/custom orders. Every invoice = an auditable transaction record. | PayPal/Venmo invoicing (no corporate record, no brand control) |
+| **Vendor event POS** | Barcode scanner, fast checkout, guest checkout, shipping label printing at an event table. **Tap-to-pay in development (2026):** customer taps credit card on rep's phone — no hardware required. | Square (POS only, no inventory, no customer record to DSO) |
+
+**Why this matters for C&C DSOs:** A C&C rep's selling life spans all three modes in a single week — they sell online, follow up with invoices for custom orders, and run a table at a Saturday market. Their current stack is three separate tools with no shared inventory or compliance record. Wayroo collapses all three into one. Every transaction in every channel feeds the same inventory count, the same customer record, and the same compliance audit trail.
+
+**Tap-to-pay note (roadmap):** When shipped, tap-to-pay removes the last hardware dependency for in-person selling. A rep needs only their phone. This directly lowers the barrier to vendor event adoption and strengthens the "one app replaces everything" pitch.
+
+---
+
 ### Tier 3: Unfinished Business (High Potential, Not Fully Explored)
 
-**7. Spendback**
+**9. Spendback**
 - Signal: Edmond asked about it, ran out of time
 - What it does: Gives stylists instant access to their wholesale purchasing credit
 - Why it matters for C&C: Cash-and-carry reps need fast capital turnover — Spendback directly solves the "money tied up in inventory" problem
 - Action: Lead agenda item in follow-up call
 
-**8. Rep-to-Rep Wholesale Transfers**
+**10. Rep-to-Rep Wholesale Transfers**
 - Signal: Brick confirmed it already happens informally
 - Why it matters: Formalizing what's already happening builds loyalty without creating a new behavior
 - Action: Demo in follow-up; this differentiates from Square entirely
@@ -231,11 +257,13 @@ Using the April Dunford framework adapted for this segment:
 ### Unique Attributes for This Segment
 | Attribute | Why Unique |
 |-----------|-----------|
-| Rep physical inventory management + barcode POS | No other tool ties physical stock to a branded rep storefront |
+| Three personal inventory sales channels in one app | Ecommerce storefront (branded online store), invoicing with payment links (remote/post-event sales, branded invoice + payment link sent to customer), and vendor event POS (barcode scanner, fast checkout, guest checkout, shipping label printing — tap-to-pay in development 2026). No competing rep tool covers all three. Square = POS only. Shopify = storefront only. PayPal = invoicing/payments only. Wayroo = all three, all feeding the same inventory and compliance record. |
+| Rep physical inventory management + full-channel selling | No other tool ties physical stock to three distinct selling surfaces (storefront, invoice, POS) in one app |
 | Corporate visibility into all rep-held inventory | No competitor offers this — Square/PayPal are invisible to corporate |
 | Customer data capture at point of in-person sale | Venmo/cash transactions leave no record; Wayroo creates one |
 | Brand-controlled product catalog for rep resell | Official images/descriptions/SKUs prevent off-brand rep listings |
-| **Dual-storefront: personal store + replicated site** | Rep earns from personal inventory (Wayroo storefront, their own discounts/bundles/marketing) AND commission on full DSO catalog (replicated site). Seamless, intuitive flow between both — confirmed unprompted by Brick B. No standalone C&C tool offers this. |
+| **Dual-storefront with directed customer flow** | Rep earns from personal inventory (Wayroo storefront, their own discounts/bundles/marketing) AND commission on full DSO catalog (replicated site, drop-shipped). Reps actively direct customers *from* the replicated site *into* their personal Wayroo storefront — the transition is seamless and intuitive. Confirmed unprompted by Brick B. No standalone C&C tool offers this two-surface architecture. |
+| **Wayroo admin portal — rep personal inventory sales & orders dashboard (dual-audience)** | The admin portal serves two audiences from the same tool: (1) the **rep** logs in to see their own sales and orders — personal business intelligence replacing Excel or mental tracking; (2) the **DSO admin** sees across all reps — field-wide visibility into what the cash-and-carry channel is doing. Combined with dual-storefront, the DSO has complete visibility into both rep revenue streams (direct personal inventory sales + replicated site commission). No competitor surfaces this data to either audience. Brick called the package "very intriguing." Combinatorial differentiator: replicated site + intuitive customer flow + dual-audience dashboard = complete rep commerce visibility system. |
 | **eSuite fee pass-through** | DSOs already charge reps a monthly eSuite technology fee. Wayroo's per-user cost passes through this mechanism — the DSO doesn't absorb it. Cost-neutral or revenue-positive for large DSOs. Counters per-user pricing objections. |
 | Spendback: instant rep wholesale credit access | Unique to Wayroo — no competitor offers payout + purchasing credit loop |
 | LuLaRoe-proven lineage | Credibility signal specific to the ex-LuLaRoe rep population |
@@ -266,7 +294,7 @@ Using the April Dunford framework adapted for this segment:
 
 **Pillar 3: See Your Field Inventory For the First Time**
 - Headline: "Know what every rep owns — before a product expires, before a customer complains, before a style sells out."
-- Proof points: Real-time rep inventory sync after wholesale ships, throwback campaign targeting by rep stock, expiration tracking, brand catalog control over resell listings
+- Proof points: Rep orders wholesale from within Wayroo → inventory appears immediately → rep marks received as stock arrives → corporate sees confirmed rep inventory in real time. Throwback campaign targeting by confirmed rep stock, expiration tracking by SKU, brand catalog control on the replicated site.
 - Objection it addresses: "We ship it and it's their inventory now" → It's their inventory but your brand, your compliance record, and your missed demand signal.
 
 **Pillar 4: Give Reps the App They'll Actually Use (Track 1 — DSO Buyer Angle)**
@@ -298,6 +326,27 @@ Using the April Dunford framework adapted for this segment:
 - Add to Daniel's prospecting list: jewelry/accessories DSOs with event-heavy or inventory-carry models
 - New discovery question to add to call prep: *"What percentage of your reps sell from personal inventory vs. catalog orders?"* — this is the qualification filter for the C&C segment
 - New objection prep: Shopify integration — need a standard response on feasibility and timeline before next outreach to similar accounts
+
+---
+
+## Cross-Account Validated GTM Signal: Admin Time vs. Selling Time
+
+**Confirmed across 3 current ByDesign clients + Color Street (prospect), as of May 2026.**
+
+This is the most broadly validated rep-level pain in the current pipeline and has graduated from a prospect observation to a GTM cornerstone.
+
+**What was said (Color Street):**
+> *"Reps spend lots of time doing admin tasks such as printing shipping labels, maintaining inventory spreadsheets, and none of these activities generate revenue."* — Brick B (Brian), Color Street
+
+**What this pattern means for GTM:**
+- Every rep-facing feature in Wayroo should be evaluated through the lens of: does it reduce non-revenue admin, and does it do so without requiring a new behavior from the rep?
+- Bluetooth scanning, in-app wholesale ordering, automated invoicing, and integrated shipping labels all pass this test — they reduce admin as a byproduct of the rep's normal selling flow
+- The discovery question that surfaces this in every C&C DSO call: *"How much time do your reps spend on admin tasks per week — and how much of that generates any revenue?"*
+
+**What this means for the Paparazzi case study:**
+Admin time reduction is a primary metric to capture alongside the $31M revenue figure. A stat like "Paparazzi reps reduced weekly admin time by X hours" would be the most broadly resonant proof point in the portfolio — it speaks to every account, not just C&C.
+
+**Status:** Validated across 4 accounts. Treat as a confirmed cornerstone of Wayroo's rep-facing value proposition going forward.
 
 ---
 
